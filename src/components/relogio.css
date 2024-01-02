@@ -1,0 +1,19 @@
+.clock-container {
+    width: 400px;
+    height: 200px;
+    max-width: 400px;
+    max-height: 250px;
+    padding: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 4.5em;
+    background-color: rgb(224, 224, 224, 0.5);
+    border-radius: 5px;
+}
+
+h2 {
+    text-shadow: rgb(177, 176, 175) 1px 0 10px;
+    color: rgb(247, 247, 247);
+    font-family: 'Merriweather', serif;
+}
