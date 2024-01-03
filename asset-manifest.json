@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/widget-notion-clock/static/css/main.c9260c7a.css",
+    "main.css": "/widget-notion-clock/static/css/main.86d37ccf.css",
     "main.js": "/widget-notion-clock/static/js/main.405a52a4.js",
     "static/js/787.1640af7d.chunk.js": "/widget-notion-clock/static/js/787.1640af7d.chunk.js",
     "static/media/background.jpg": "/widget-notion-clock/static/media/background.ff8276818eb5310e8aaa.jpg",
     "index.html": "/widget-notion-clock/index.html",
-    "main.c9260c7a.css.map": "/widget-notion-clock/static/css/main.c9260c7a.css.map",
+    "main.86d37ccf.css.map": "/widget-notion-clock/static/css/main.86d37ccf.css.map",
     "main.405a52a4.js.map": "/widget-notion-clock/static/js/main.405a52a4.js.map",
     "787.1640af7d.chunk.js.map": "/widget-notion-clock/static/js/787.1640af7d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c9260c7a.css",
+    "static/css/main.86d37ccf.css",
     "static/js/main.405a52a4.js"
   ]
 }
