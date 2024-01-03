@@ -7,7 +7,7 @@ function Relogio() {
     const timerID = setInterval(() => updateTime(), 1000);
 
     return function cleanup() {
-      clearInterval(timerID);
+      clearInterval(timerID);  
     };
   }, []);
 
