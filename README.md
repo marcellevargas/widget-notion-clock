@@ -1,12 +1,24 @@
 # Widget Notion Clock
-Projeto para criar um relógio customizável que possa ser utilizado no Notion.
+Project to create a customizable clock that can be used in Notion.
 
-# Sobre o programador
-Olá! Meu nome é Marcelle e eu crio conteúdo na internet sobre programação.
-Se você quiser conhecer mais sobre mim acesse a minha página [MarcelleVargas](http://marcellevargas.bio/).
+# 💻 Project continuity
+[ ] allow users to choose a clock background image
+[ ] allow users to change the text font
 
-# Continuidade do projeto
-[ ] permitir que os usuários possam escolher uma imagem de fundo o relógio
-[ ] permitir que os usuários possam alterar a fonte do texto
+## 🤝 Developer
 
-Para sugestões ou problemas entrar em contato com marcellecode@gmail.com
+Hi! My name is Marcelle and I create content on the internet about programming.
+If you want to know more about me visit my page:
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/marcellevargas" title="check my github">
+        <img src="https://avatars.githubusercontent.com/u/37669732?v=4" width="100px;" alt="Photo of Marcelle on Github"/><br>
+        <sub>
+          <b>Marcelle Vargas</b>
+        </sub>
+      </a>
+    </td>
+  </tr>
+</table>
